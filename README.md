@@ -14,8 +14,15 @@ Modifications will be presented as PRs, and current collaborators will be asked
 
 ## How can I become a collaborator? 
 If you are a owner in a project that wishes to have a say in the community
- standards, please open a PR to add yourself (or your team) to the `CODEOWNERS` 
- file and list your project on the `README`. All teams engaged in active, 
- reasonably popular projects will be allowed to participate - provided their 
- projects continue to implement the standards and the teams remain cooperative 
- with the rest of the collaborators.  
+ standards, all you need to do is open a PR to add yourself (or your team) in
+ two places:
+ 
+ 1. Add you or your team's github tag to the `CODEOWNERS` file. This will 
+ automatically request your review when new PRs are opened. 
+ 2. Add you or your team's name and a link to the project in the `README.md` 
+ (this file). This makes it easy to users to see you are involved and find your
+ project.
+ 
+ All teams engaged in active, reasonably popular projects are welcome to join - 
+ the only requirement is to make sure your project supports the standards and
+ remain cooperative and respectful to the rest of the collaborators. 

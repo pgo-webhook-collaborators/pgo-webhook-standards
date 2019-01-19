@@ -1,2 +1,7 @@
-# The PokeAlarm Team
+# To add you or your team as a collaborator, add a github tag (either a username
+# or org/team name) separated by a space to the CODEOWNERS line below and a
+# commented line explaining who each tag represents.
+
+# @pokealarm/dev-team - The PokeAlarm Team
+
 *	@pokealarm/dev-team
