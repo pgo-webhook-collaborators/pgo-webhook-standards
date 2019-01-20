@@ -6,6 +6,7 @@ The goal of this project is to provide a standard webhook definition that can
 
 ## Current Collaborators
 * [PokeAlarm Team](https://github.com/PokeAlarm)
+* [PoracleJs](https://github.com/KartulUdus/PoracleJS)
 
 ## Who decides on the standards?  
 Modifications will be presented as PRs, and current collaborators will be asked
