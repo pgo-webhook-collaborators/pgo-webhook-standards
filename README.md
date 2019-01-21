@@ -14,7 +14,7 @@ Modifications will be presented as PRs, and current collaborators will be asked
  the majority of collaborators. 
 
 ## How can I become a collaborator? 
-If you are a owner in a project that wishes to have a say in the community
+If you are an owner in a project that wishes to have a say in the community
  standards, all you need to do is open a PR to add yourself (or your team) in
  two places:
  
