@@ -2,7 +2,7 @@
 # or org/team name) separated by a space to the CODEOWNERS line below and a
 # commented line explaining who each tag represents.
 
-# @pokealarm/dev-team - The PokeAlarm Team
-# @RealDeviceMap/developers - The RealDeviceMap Team
+# @pgo-webhook-collaborators/PokeAlarm - The PokeAlarm Team
+# @pgo-webhook-collaborators/RealDeviceMap - The RealDeviceMap Team
 
-*	@pokealarm/dev-team @RealDeviceMap/developers
+*	@pgo-webhook-collaborators/PokeAlarm @pgo-webhook-collaborators/RealDeviceMap
