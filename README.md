@@ -8,6 +8,8 @@ The goal of this project is to provide a standard webhook definition that can
 * [PokeAlarm Team](https://github.com/PokeAlarm)
 * [RealDeviceMap Team](https://github.com/RealDeviceMap)
 * [Map-A-Droid Team](https://github.com/map-a-droid)
+* [PoracleJs](https://github.com/KartulUdus/PoracleJS)
+
 
 ## Who decides on the standards?
 Modifications will be presented as PRs, and current collaborators will be asked
