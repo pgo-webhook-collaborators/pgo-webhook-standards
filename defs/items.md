@@ -1,0 +1,55 @@
+## Item array
+Once again, straight from protos. The int represents the ID
+
+| ID   | Name                       |
+|------|----------------------------|
+| 0    | UNKNOWN                    |
+| 1    | POKE_BALL                  |
+| 2    | GREAT_BALL                 |
+| 3    | ULTRA_BALL                 |
+| 4    | MASTER_BALL                |
+| 5    | PREMIER_BALL               |
+| 101  | POTION                     |
+| 102  | SUPER_POTION               |
+| 103  | HYPER_POTION               |
+| 104  | MAX_POTION                 |
+| 201  | REVIVE                     |
+| 202  | MAX_REVIVE                 |
+| 301  | LUCKY_EGG                  |
+| 401  | INCENSE_ORDINARY           |
+| 402  | INCENSE_SPICY              |
+| 403  | INCENSE_COOL               |
+| 404  | INCENSE_FLORAL             |
+| 405  | INCENSE_BELUGA_BOX         |
+| 501  | TROY_DISK                  |
+| 602  | X_ATTACK                   |
+| 603  | X_DEFENSE                  |
+| 604  | X_MIRACLE                  |
+| 701  | RAZZ_BERRY                 |
+| 702  | BLUK_BERRY                 |
+| 703  | NANAB_BERRY                |
+| 704  | WEPAR_BERRY                |
+| 705  | PINAP_BERRY                |
+| 706  | GOLDEN_RAZZ_BERRY          |
+| 707  | GOLDEN_NANAB_BERRY         |
+| 708  | GOLDEN_PINAP_BERRY         |
+| 801  | SPECIAL_CAMERA             |
+| 901  | INCUBATOR_BASIC_UNLIMITED  |
+| 902  | INCUBATOR_BASIC            |
+| 903  | INCUBATOR_SUPER            |
+| 1001 | POKEMON_STORAGE_UPGRADE    |
+| 1002 | STORAGE_UPGRADE            |
+| 1101 | SUN_STONE                  |
+| 1102 | KINGS_ROCK                 |
+| 1103 | METAL_COAT                 |
+| 1104 | DRAGON_SCALE               |
+| 1105 | UP_GRADE                   |
+| 1106 | EVOLUTION_STONE            |
+| 1201 | MOVE_REROLL_FAST_ATTACK    |
+| 1202 | MOVE_REROLL_SPECIAL_ATTACK |
+| 1301 | RARE_CANDY                 |
+| 1401 | FREE_RAID_TICKET           |
+| 1402 | PAID_RAID_TICKET           |
+| 1403 | LEGENDARY_RAID_TICKET      |
+| 1404 | STAR_PIECE                 |
+| 1405 | FRIEND_GIFT_BOX            |
