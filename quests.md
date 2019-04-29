@@ -7,6 +7,9 @@
 | pokestop_id   | string                     | Y        | The unique identifier for the quest                                                                                             |
 | pokestop_url  | string                     | N        |                                                                                                                                 |
 | pokestop_name | string                     | N        |                                                                                                                                 |
+| template      | string                     | N        | Representation of current quest campaign                                                                                        |
+| target        | int                        | N        | Base condition ID. See [conditions](#conditions) table.                                                                         |
+| worker_level  | int                        | N        | The level of the worker that sent the webhook. Needed for determining if the rewards would be different (some items are locked) |
 | quest_type    | int                        | Y        | See [quest types](#quest types) table                                                                                           |
 | updated       | int                        | Y        | epoch time representing when the quest was last scanned, in order to avoid duplicate messages within the common 24h time frame. |
 | conditions    | array of condition objects | Y        | See [conditions](#conditions) table                                                                                             |
